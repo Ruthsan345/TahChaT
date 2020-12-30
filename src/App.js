@@ -46,8 +46,8 @@ function SignIn(){
 
   }
   return(<>
-   <div class="welcome">Welcome to TahChaT!!</div> 
-   <br></br>
+  <div class="welcome">Welcome to TahChaT!!</div> 
+  <br></br>
     <button className="sign-in" onClick={signInWithGoogle}>👾 Sign in with Google</button>
     </>
   )
